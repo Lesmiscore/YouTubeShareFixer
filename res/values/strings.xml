@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fix YouTube Share Text and Share</string>
+	<string name="set_name">Fix YouTube Share Text and Share:Settings</string>
+	<string name="share">share</string>
+	<string name="fail_send">Sorry! Failed to send YouTube app.\nPlease select \"YouTube\" in the list.</string>
+	<string name="fail_send_share">Please select "YouTube".</string>
+	<string name="fail_convert">Failed to convert input text.</string>
+	<string name="chpn">Choose Send App</string>
+	<string name="yt_direct">Fix YouTube Share Text:Direct Send to YouTube App</string>
+	<string name="fix_full">Fix YouTube Share Text:Full URL</string>
+	<string name="fix_short">Fix YouTube Share Text:Short URL</string>
+	<string name="fix_pla">Fix YouTube Share Text:Play List</string>
+	<string name="fix_vali">Validate YouTube Share Text</string>
+	<string name="fix_aj">Fix YouTube Share Text:Auto</string>
+	<string name="fix_aj_t">Choose convert mode</string>
+	<string name="fix_full_aj">Full URL</string>
+	<string name="fix_short_aj">Short URL</string>
+	<string name="actv">Disable %c</string>
+	
+	<string name="fix_full_cb">Fix YouTube Share Text to Clipboard:Full URL</string>
+	<string name="fix_short_cb">Fix YouTube Share Text to Clipboard:Short URL</string>
+	<string name="fix_pla_cb">Fix YouTube Share Text to Clipboard:Play List</string>
+</resources>

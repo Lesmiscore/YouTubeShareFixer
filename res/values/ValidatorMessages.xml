@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="mes_1">This text cannot process in this program</string>
+	<string name="mes_2">This text can process in this proram</string>
+	<string name="mes_3">Error occured</string>
+</resources>

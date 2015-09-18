@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">YouTube共有アドレスの修正と再共有</string>
+    <string name="set_name">YouTube共有アドレスの修正と再共有:設定</string>
+	<string name="share">共有</string>
+	<string name="chpn">共有先を選択</string>
+	<string name="fail_send">申し訳ございません。YouTubeアプリへの直接転送に失敗しました。\n表示されたリストの中から\"YouTube\"を選択してください。</string>
+	<string name="fail_send_share">"YouTube"を選択してください。</string>
+	<string name="fail_convert">テキストの変換に失敗しました。</string>
+	<string name="yt_direct">YouTube共有テキスト修正:YouTubeアプリに直接転送</string>
+	<string name="fix_full">YouTube共有テキスト修正:フルURL</string>
+	<string name="fix_short">YouTube共有テキスト修正:短縮URL</string>
+	<string name="fix_pla">YouTube共有テキスト修正:再生リスト</string>
+	<string name="fix_vali">YouTube共有テキストの検証</string>
+	<string name="fix_aj">YouTube共有テキスト修正:自動</string>
+	<string name="fix_aj_t">変換モードを選択してください。</string>
+	<string name="fix_full_aj">フルURL</string>
+	<string name="fix_short_aj">短縮URL</string>
+	<string name="actv">%cを無効にする</string>
+	
+	<string name="fix_full_cb">YouTube共有テキスト修正(クリップボード):フルURL</string>
+	<string name="fix_short_cb">YouTube共有テキスト修正(クリップボード):短縮URL</string>
+	<string name="fix_pla_cb">YouTube共有テキスト修正(クリップボード):再生リスト</string>
+</resources>

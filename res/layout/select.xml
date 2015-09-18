@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="horizontal">
+
+	<Button
+		android:layout_height="wrap_content"
+		android:text="@string/fix_full_aj"
+		android:layout_width="wrap_content"
+		android:id="@+id/fullurl"/>
+
+	<Button
+		android:layout_height="wrap_content"
+		android:text="@string/fix_short_aj"
+		android:layout_width="wrap_content"
+		android:id="@+id/shorturl"/>
+
+</LinearLayout>
+

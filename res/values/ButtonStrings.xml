@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="btn_default">Default settings</string>
+	<string name="btn_fill">Check all</string>
+	<string name="btn_unfill">Uncheck all</string>
+	<string name="btn_ok">OK</string>
+	<string name="btn_cancel">Cancel</string>
+	<string name="btn_restore">Restore settings</string>
+	<string name="btn_apply">Apply</string>
+	<string name="btn_discb">Disable Clipboard Tools</string>
+</resources>

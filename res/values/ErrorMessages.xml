@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="err_1">Error:Invalid intent</string>
+	<string name="err_2">Error:Invalid instance</string>
+	<string name="err_3">Error:Invalid string</string>
+</resources>

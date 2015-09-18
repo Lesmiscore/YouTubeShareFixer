@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="btn_default">標準の設定</string>
+	<string name="btn_fill">全てにチェック</string>
+	<string name="btn_unfill">チェック解除</string>
+	<string name="btn_ok">OK</string>
+	<string name="btn_cancel">キャンセル</string>
+	<string name="btn_restore">設定を復元</string>
+	<string name="btn_apply">適用</string>
+	<string name="btn_discb">クリップボードツールを無効にする</string>
+</resources>

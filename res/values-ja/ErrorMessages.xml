@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="err_1">エラー:Intentが不正です。</string>
+	<string name="err_2">エラー:インスタンスが不正です。</string>
+	<string name="err_3">エラー:不正な文字列です。</string>
+	</resources>

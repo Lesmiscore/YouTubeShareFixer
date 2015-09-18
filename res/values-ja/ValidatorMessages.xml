@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="mes_1">この文字列はこのプログラムで処理できません</string>
+	<string name="mes_2">この文字列はこのプログラムで処理できます</string>
+	<string name="mes_3">エラーが発生しました。</string>
+</resources>

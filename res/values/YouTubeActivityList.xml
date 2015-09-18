@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="packageName">com.google.android.youtube</string>
+	<string-array name="classNames">
+		<item>com.google.android.apps.youtube.app.honeycomb.Shell$WatchActivity</item>
+		<item>com.google.android.apps.youtube.app.honeycomb.Shell$UrlActivity</item>
+		<item>com.google.android.youtube.UrlActivity</item>
+	</string-array>
+</resources>
